@@ -14,7 +14,7 @@ Computer Engineering graduate (University of Victoria) and Engineer-in-Training 
 | [NHL Fantasy Score Predictor](https://github.com/ericyu02/ECE_470) | Weighted-average and linear-regression ensemble predicting fantasy scores from 15 seasons of NHL data | Python |
 | [Leviathan](https://github.com/Benjamin-Philipenko-Dev/leviathan-ocean-floor-mapping) | Low-cost ocean-floor mapping prototype (Raspberry Pi, sonar, GPS) with interactive 3D terrain maps, backed by an Ocean Wise Ocean Action Grant | Python, Node.js, Plotly |
 | [Embedded PWM Control](https://github.com/Benjamin-Philipenko-Dev/embedded-pwm-control) | Bare-metal STM32 system: interrupt-driven frequency measurement, ADC/DAC closed-loop control of a 555 timer, custom SPI OLED driver | C, ARM Cortex-M0 |
-| [Personal Portfolio Website](https://github.com/Benjamin-Philipenko-Dev/Personal-Portfolio-Website) | The site at benphilipenko.ca | Vue.js, Vuetify, Firebase |
+| [Personal Portfolio Website](https://benphilipenko.ca) | This portfolio: a responsive single-page app | Vue.js, Vuetify, Firebase |
 
 ## Tools I work with
 
