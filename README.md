@@ -9,7 +9,7 @@ Computer Engineering graduate (University of Victoria) and Engineer-in-Training 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [Adaptive Machine Learning for Radiolocation](https://github.com/Benjamin-Philipenko-Dev/adaptive-ml-radiolocation) | Parzen-window position estimation from WiFi signal strength, fused with an adaptive Kalman filter to track a moving target (cuts tracking error by about two-thirds and beats a neural-network baseline) | MATLAB |
-| [Re-Bike](https://github.com/anish-sivakumar/ReBike) | Senior capstone: regenerative-braking e-bike conversion with field-oriented motor control, a custom BMS battery pack, CAN bus, and Python energy-recovery analysis | C, Python |
+| [Re-Bike](https://github.com/anish-sivakumar/ReBike) | Senior capstone (team of 5): regenerative-braking e-bike conversion. I led the user interface subsystem: a Teensy controller that handles throttle and brake input, sends motor commands over CAN bus, and drives an OLED dashboard | C++, CAN bus |
 | [Antarctic Vision](https://github.com/Benjamin-Philipenko-Dev/antarctic-vision-penguin-detection) | YOLOv5 object detection and segmentation, with a custom 1,600-image dataset to detect penguins | Python, PyTorch, Colab |
 | [NHL Fantasy Score Predictor](https://github.com/ericyu02/ECE_470) | Weighted-average and linear-regression ensemble predicting fantasy scores from 15 seasons of NHL data | Python |
 | [Leviathan](https://github.com/Benjamin-Philipenko-Dev/leviathan-ocean-floor-mapping) | Low-cost ocean-floor mapping prototype (Raspberry Pi, sonar, GPS) with interactive 3D terrain maps, backed by an Ocean Wise Ocean Action Grant | Python, Node.js, Plotly |
