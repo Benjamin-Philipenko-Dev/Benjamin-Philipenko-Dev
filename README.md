@@ -2,7 +2,7 @@
 
 Computer Engineering graduate (University of Victoria) and Engineer-in-Training at **Venturi Engineering Solutions**, where I work on the simulation and data systems behind pipeline leak detection and operator training. I'm most interested in work where data, modelling, and software meet: machine learning, estimation, and the tooling that keeps real-world data trustworthy.
 
-🌐 **Portfolio:** [benphilipenko.ca](https://benphilipenko.ca) · 💼 **LinkedIn:** [benjamin-philipenko](https://www.linkedin.com/in/benjamin-philipenko-9145231b8/)
+🌐 **Portfolio:** [benphilipenko.ca](https://benphilipenko.ca) · 💼 **LinkedIn:** [benjamin-philipenko](https://www.linkedin.com/in/benjamin-philipenko/)
 
 ## Featured projects
 
